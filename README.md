@@ -1,7 +1,7 @@
 ## 18-story steel frame structure
 This webpage shows the structural property and the system identification result of an 18-story steel frame structure.
 
-## Structural property
+## Structural properties
 A one-third scale 18-story steel frame structure is mounted on a shaking table  which provides a uniaxial base excitation for the structure. The strcuture is modeled by an 18-DOF shear model and its structural properties are presented in the table.  
 <img src="https://github.com/yotsuki3/eighteen-story-structure/blob/main/Figure/18StoryModel.PNG?raw=true" width="750" height="450" />
 
