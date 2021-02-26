@@ -6,4 +6,4 @@ A one-third scale 18-story steel frame structure is mounted on a shaking table  
 
 # System identification
 System identification is conducted using acceleration responses of the structure subject to the input ground motion as shown below. The first and the second natural frequencies, damping ratios, and mode shapes are extracted.
-<img src="https://github.com/yotsuki3/eighteen-story-structure/blob/main/Figure/18StoryExperimentSystemID.PNG?raw=false" width="800" height="350" />
+<img src="https://github.com/yotsuki3/eighteen-story-structure/blob/main/Figure/18StoryExperimentSystemID.PNG?raw=false" width="850" height="350" />
